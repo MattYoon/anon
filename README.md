@@ -1,12 +1,5 @@
 # Reasoning Models Better Express Their Confidence
 
-### Summary
-🙁 LLMs are overconfident even when they are dead wrong. 
-
-🧐 What about reasoning models? Can they actually tell us “My answer is only 60% likely to be correct”?
-
-❗Our paper suggests that they can! Through extensive analysis, we investigate what enables this emergent ability.
-
 ---
 ## Installation
 ```
